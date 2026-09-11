@@ -75,3 +75,8 @@ GEMINI_MODEL=gemini-2.5-flash
 ```ini
 VITE_API_BASE_URL=http://localhost:8001
 ```
+## Hackathon
+
+This project was developed as part of **Smart India Hackathon** by our team.
+
+For details about our participation and contributions, see [HACKATHON.md](HACKATHON.md).
