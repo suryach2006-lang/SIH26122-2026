@@ -55,24 +55,7 @@ npm run dev
 
 ---
 
-## Environment Variables
 
-### Backend (`backend/.env`)
-```ini
-HOST=0.0.0.0
-PORT=8001
-CORS_ORIGINS=http://localhost:5173,http://127.0.0.1:5173
-DATABASE_URL=sqlite:///./sih26122.db
-JWT_ALGORITHM=HS256
-ACCESS_TOKEN_EXPIRE_MINUTES=1440
-APP_TIMEZONE=Asia/Kolkata
-GEMINI_MODEL=gemini-2.5-flash
-```
-
-### Frontend (`frontend/.env`)
-```ini
-VITE_API_BASE_URL=http://localhost:8001
-```
 ## Hackathon
 
 This project was developed as part of **Smart India Hackathon** by our team.
